@@ -6,11 +6,9 @@ It uses the pykakasi library for converting the words to other writings. The kan
 ## Improvement ideas
 
 * Filter out the kanji duplicates
-* kanjiapi returns the data only for one kanji. With pykakasi it should be possible to get full words, which can consist of more kanjis and get similar data as well.
+* kanjiapi returns the data only for one kanji. Pykakasi separates the words, which can consist of more kanjis and there should be also information about them.
 * improve the structure and visual appeal
 * save to a file or enable options to dump it somewhere
 * read from input/file
 * read from speech
 * make the text dynamic, with something like https://mediastack.com/sources/japan-news-api
-* collect the keywords and let it summarize the context
-* let it offer solutions to context
