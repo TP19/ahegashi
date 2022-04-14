@@ -7,7 +7,7 @@ It uses the pykakasi library for converting the words to other writings. The kan
 
 * Filter out the kanji duplicates
 * kanjiapi returns the data only for one kanji. Pykakasi separates the words, which can consist of more kanjis and there should be also information about them.
-* improve the structure and visual appeal
+* make it more readable
 * save to a file or enable options to dump it somewhere
 * read from input/file
 * read from speech
