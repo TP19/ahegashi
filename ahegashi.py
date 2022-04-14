@@ -1,5 +1,3 @@
-#from pykakasi import *
-
 import requests
 import pykakasi
 import warnings
